@@ -1,4 +1,4 @@
-# CanvaDesigns
+# CanvaWebDesigns
 Designs made in Canva for various projects
 
 Mock Hotel Website Design:
